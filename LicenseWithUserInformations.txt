@@ -1,20 +1,7 @@
 Logiciel: SGBL OF ESGR
-Statut: étudiant
+Statut: admin
 Nom complet: Jérémy Pichette
-Email: picj02@csspo.ca
+Email: jj.p1114studio@gmail.com
 Niveau scolaire: 3
-Clé de produit: SGBL-OF-ESGR.6264-OFHCP-5126-UBSLG-6057-CWCFD-9517-OLDMY
+Clé de produit: SGBL-OF-ESGR.5282-OYKUD-8365-VUGUV-1884-EBFUR-3628-ADMIN
 
-Logiciel: SGBL OF ESGR
-Statut: étudiant
-Nom complet: Jérémy Pichette
-Email: picj02@csspo.ca
-Niveau scolaire: 3
-Clé de produit: SGBL-OF-ESGR.8424-EITPA-9300-MBHWD-5222-JJQAU-4793-SKDSN
-
-Logiciel: SGBL OF ESGR
-Statut: étudiant
-Nom complet: Jérémy Pichette
-Email: picj02@csspo.ca
-Niveau scolaire: 3
-Clé de produit: SGBL-OF-ESGR.8573-BFUBT-4166-UTILX-0345-UTJJQ-0679-QWQPM
